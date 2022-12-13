@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapSurveyApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="selected_item">Selected lecture:</string>
+
+    <string-array name="Languages">
+        <item>Mobile Device</item>
+        <item>Machine Learning</item>
+        <item>Cryptography</item>
+        <item>ISG</item>
+    </string-array>
+</resources>
