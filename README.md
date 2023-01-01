@@ -19,4 +19,4 @@ This project aims to create a survey application by placing markers on the bus s
 ## Contact
 Mail: enessah200@gmail.com\
 LinkedIn: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)\
-Project Link: [Hospital-Simulation](https://github.com/enes-sahinn/Map-Survey-Application)
+Project Link: [Map-Survey-Application](https://github.com/enes-sahinn/Map-Survey-Application)
