@@ -9,7 +9,7 @@
 
 This project aims to create a survey application by placing markers on the bus stops of Dokuz Eylül University on Google Maps.
 
-## Game Screen
+## App Screen
 ![alt text](https://github.com/enes-sahinn/Map-Survey-Application/blob/master/app_screen.png)
 
 ## Built With
